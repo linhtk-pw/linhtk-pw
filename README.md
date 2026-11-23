@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Linh
 
-### Business Analyst | Bridging Business and Technology
+### Business Analyst 
 
 I'm currently working as a **Business Analyst at Printway**, focusing on understanding business needs and translating requirements into practical software solutions.
 
