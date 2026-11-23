@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Linh
+# Hi there! I'm Linh
 
 ### Business Analyst 
 
